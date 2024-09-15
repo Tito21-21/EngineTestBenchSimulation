@@ -1,0 +1,1 @@
+Launch Direct X window then Build project
